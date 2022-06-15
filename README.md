@@ -39,7 +39,7 @@ It may be worth drilling down a little deeper into this goal range and examining
 
 ### Challenges and Difficulties Encountered
 	
-One challenge I had was with the CountIFS function in Excel. I had used the COUNTIF function before and was unaware of the COUNTIFS function. 
+One challenge I had was with the COUNTIFS function in Excel. I had used the COUNTIF function before and was unaware of the COUNTIFS function. 
 Due to this I misread the COUNTIFS function provided in the module and was attempting to make a COUNTIF function work correctly. It did not.
 Re-reading the module section, after becoming mildly frustrated allowed me to quickly realize my mistake and perform the correct analysis.
 	
