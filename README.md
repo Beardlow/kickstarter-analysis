@@ -23,7 +23,7 @@ Discussing this with the end user can provide guidance for determining the corre
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Theater Outcomes Based on Launch Date](C:\Users\bartl\OneDrive\Documents\OSU Bootcamp\Analysis Projects\Crowdfunding Analysis\Theater_Outcome_vs_Launch.png)	
+![Theater Outcomes Based on Launch Date](https://github.com/Beardlow/kickstarter-analysis/blob/main/Theater_Outcome_vs_Launch.png)	
 What we can determine from the Theater Outcomes vs Launch Date analysis is that there seems to be a higher liklihood of success when a crowdfunding event is started in May.
 However, this could be due to more events being started in May vs other months since this chart is based off of counts in the Y column. 
 A related chart showing percentages of successes and failures based on month started may be a more prudent way to provide actual insight.
@@ -32,7 +32,7 @@ However, and again, this chart is based on counts and this inference is subject 
 
 ### Analysis of Outcomes Based on Goals
 
-![Outcomes_vs_Goals](C:\Users\bartl\OneDrive\Documents\OSU Bootcamp\Analysis Projects\Crowdfunding Analysis\Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](https://github.com/Beardlow/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 One conclusion of the Outcomes vs Goals chart is that there seems to be an inverse relationship between the goal amount and the likelihood of success.
 This can be seen by either one of the trend lines; however, there also seems to be some outliers in the $35k to $45k range.
 It may be worth drilling down a little deeper into this goal range and examining particular crowdfunding techniques and activities to determine why the lilihood of success in this range does not follow the same trend as other goal ranges.
