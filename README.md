@@ -13,7 +13,7 @@ This analysis will also provide guidance as to which other successful crowdfundi
 
 ## Analysis and Challenges
 	
-For this analysis we needed to make our data a little readable, sortable, and manageable. 
+For this analysis we needed to make our data a little more readable, sortable, and manageable. 
 This required the breaking up of categories and subcategories, as well as reformatting of the dates given into readable dates.
 These reformatting techniques allowed us to filter and pivot the data in a way that some proper insights might be taken.
 Most of the challenges belonged to the reformatting stage. 
