@@ -3,7 +3,7 @@
 ## Overview of Project
 	
 This project was started by the desire to utlize data to maximize the chances of success for a crowdfunding activity.
-The data used is a cross category compilation of successful and unsuccessful crowdfunding campaigns in similar categories.
+The data used is a cross-category, multi-year compilation of successful and unsuccessful crowdfunding campaigns in similar categories.
 
 ### Purpose
 	
